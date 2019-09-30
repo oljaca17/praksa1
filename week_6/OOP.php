@@ -22,3 +22,9 @@ class Parfem {
 
    
 }
+
+$parfem = new Parfem();
+
+$parfem -> setNazivParfema('Dior');
+
+$parfem -> setVelicina (100);
