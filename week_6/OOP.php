@@ -1,6 +1,6 @@
 <?php
  
-class parfem {
+class Parfem {
 
     private $boja = "bezbojan";
     private $glavnaNota = "jasmin";
